@@ -3,8 +3,8 @@
 ## 1. Project Information
 * **Track:** A
 * **Team:** A53 IRIS Labs Hardware
-* **Lead:** @adulu-bang (NITK, Surathkal - Senior Undergrad)
-* **Member:** @Adithya1435 (NITK, Surathkal - Senior Undergrad)
+* **Lead:** @Adithya1435 (NITK, Surathkal - Senior Undergrad)
+* **Member:** @adulu-bang (NITK, Surathkal - Senior Undergrad)
 * **Member:** @shamithoysal (NITK, Surathkal - Junior Undergrad)
 * **Member:** @ChetanSK7 (NITK, Surathkal - Junior Undergrad)
 * **Member:** @PDK34 (NITK, Surathkal - Junior Undergrad)
